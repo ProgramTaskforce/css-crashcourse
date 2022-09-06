@@ -1,9 +1,16 @@
-div {
-    width: 100%;
-    max-width: 200px;
-    background-color: rgba(0, 0, 0, 0.2);
-    border: 1px solid black;
-    font-size: 12px;
-    font-weight: 600;
-    font-family: roboto;
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+#title{
+    font-weight: bold;
+    color: purple;
+}
+
+#title{
+    color: blue;
 }
